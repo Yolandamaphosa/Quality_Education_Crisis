@@ -5,6 +5,10 @@ The scarcity or absence of necessary educational resources negatively impacts th
 
 Source: <https://www.teachwithafrica.org/education-in-south-africa> 
 
+Data Visualisation/Market Research 
+
+<https://docs.google.com/document/d/1SGdTUozXyar02Cq-p0or3CeARZHryAOrKMWWgObfo0c/edit?usp=sharing>
+
 # Proposed Solution #
 
 By recognizing and taking action to bridge this resource gap, stakeholders can work towards providing an inclusive and enriching educational experience for all students, regardless of their socioeconomic backgrounds this will help in giving South African children the ability to perform to the best of their ability, explore their potential and be able to compete with the high standard education system globally. Technology should be of the most importance and be incorporated. Every school should have sufficient quality resources and tools to make this initiative a success and there should be AI programs and programs like coding in place funded by the government to educate the youth to be teachers in our schools. This will also decrease the rate of unemployment. 
@@ -32,7 +36,7 @@ Pain Points
 5.My user needs to be well prepared for tertiary education regardless of their background.
 6.My user needs a safe space and conducive environment for studying.
 
-Key Perdformance Indicator
+# Key Performance Indicator
 
 1. At least 2 buses 
 2. 5 registered tutors in each mobile library 
