@@ -10,14 +10,5 @@ By recognizing and taking action to bridge this resource gap, stakeholders can w
 
 Source: <https://www.teachwithafrica.org/education-in-south-africa> 
 
-# Visualization 1
-
-The first visualisation shows how many students enrol into schools as the years go by. Its shown that there are less students that enrol in schools for their matric, but that number increases with each year.
-
-
-
-# Visualization 2
-This graph shows us the reasons why individuals aged 7-18 don't attend school by   reasons given and it's quite evident that poor academic performance is the second highest reason followed by no money for fees. This goes to show that there are efforts the government needs to make and organizations to help curb this and to ensure that everyone in South Africa has access to quality education and is given an equal chance at a better future.
-
 
 
