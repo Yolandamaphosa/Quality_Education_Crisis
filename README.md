@@ -12,7 +12,8 @@ Source: <https://www.teachwithafrica.org/education-in-south-africa>
 
 # Visualization 1
 
-The data displayed is based on statistics from March 2018 – found that schools in the Eastern Cape, KZN, and Limpopo were the worst affected. The charts display how many South African schools don’t have the internet or a computer lab.
+The first visualisation shows how many students enrol into schools as the years go by. Its shown that there are less students that enrol in schools for their matric, but that number increases with each year.
+
 
 
 # Visualization 2
